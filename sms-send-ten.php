@@ -3,7 +3,7 @@
 * Plugin Name: SMS Ten Sending
 * Plugin URI: https://abacies.com
 * Description: Plugin for sending ten SMS
-* Version: 1.05
+* Version: 1.0.0
 * Author: Abacies
 * Author URI: https://abacies.com
 **/
